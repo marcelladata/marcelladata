@@ -49,21 +49,3 @@
 <br/>
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=marcelladata&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelladata&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-</p>
-
